@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello dalia i hope are you going good 
 amal
-=======
->>>>>>> parent of 5b774dd (create)
